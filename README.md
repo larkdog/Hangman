@@ -1,5 +1,6 @@
 # Hangman
 ## Jimmy Flanagan & Meris Larkins
+### executable located in "hang.red"
 
 To solve this problem, the elements we used were a Red GUI, a wordlist, and a series of images that showed the status of the hangman game. 
 
